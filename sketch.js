@@ -86,7 +86,7 @@ function draw() {
   
    
  if(keyDown("DOWN_ARROW")){
-packageSprite.velocityY=2;
+packageSprite.velocityY=18;
 
  }
 if(packageSprite.position.y>620){
